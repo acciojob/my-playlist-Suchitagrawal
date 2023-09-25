@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+*{
+	background-color:  rgb(204, 204, 204);
+}
+div{
+	background-color: white;
+	border: 1px solid;
+}
+h1, h2{
+	text-align: center;
+}
+.list{
+	list-style-type: none;
+	background-color: white;
+	display: inline-block;
+}
+a{
+	text-decoration-line: none;
+	background-color: white;
+	color: black;
+}
+.video{
+	background-color: rgb(255, 255, 255);
+	padding: 6px;
+	margin: 40px;
+	border-radius: 5px;
+}
